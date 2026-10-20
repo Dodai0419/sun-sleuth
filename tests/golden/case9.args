@@ -1,0 +1,1 @@
+locate --time 2024-06-21T16:00 --tz Europe/Berlin --elev 50 --tol 1 --time-tol 12 --bbox 40,-10,60,30 --step 0.25

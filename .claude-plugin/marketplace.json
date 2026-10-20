@@ -1,0 +1,1 @@
+{"name":"sun-sleuth","owner":{"name":"Dodai0419"},"plugins":[{"name":"sun-sleuth","source":"./","description":"Find where and when a photo was taken from its shadows. Stdlib-only, over 10x faster on big scans than geo-sleuth's sun.py, same output."}]}

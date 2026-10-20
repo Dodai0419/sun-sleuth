@@ -1,0 +1,1 @@
+{"name":"sun-sleuth","description":"Find where and when a photo was taken from its shadows. Stdlib-only, over 10x faster on big scans than geo-sleuth's sun.py, same output.","version":"0.1.0","author":{"name":"Dodai0419"}}

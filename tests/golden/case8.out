@@ -1,0 +1,36 @@
+{
+ "utc": "2024-03-20T12:00+00:00",
+ "target_elev": null,
+ "target_sun_azimuth": 180.0,
+ "subsolar_point": [
+  0.147,
+  1.823
+ ],
+ "equal_elev_circle_radius_km": null,
+ "grid_step_deg": 0.5,
+ "matched_points": 35,
+ "matched_bbox": [
+  2.5,
+  1.0,
+  10.0,
+  2.5
+ ],
+ "lat_range_by_lon": {
+  "1.00": [
+   10.0,
+   10.0
+  ],
+  "1.50": [
+   4.0,
+   10.0
+  ],
+  "2.00": [
+   2.5,
+   10.0
+  ],
+  "2.50": [
+   8.0,
+   10.0
+  ]
+ }
+}
